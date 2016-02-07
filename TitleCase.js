@@ -1,5 +1,6 @@
 // I guess the point is here that there are functions str.toUpperCase() and str.toLowerCase()
 // and that they have to have these brackets!
+// though you probably should have first just put everything to lowercase and then only the 1st letter to uppercase.
 
 function titleCase(str) {
   var words=str.split(" ");
